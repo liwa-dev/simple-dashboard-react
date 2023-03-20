@@ -16,7 +16,7 @@ function AudioPlayer({ src, onStart, ...props }) {
       if (!started) {
         document.removeEventListener('click', handleKeyPress);
         audio.play();
-        
+        audio.loop = true;
         console.log('test');
         setStarted(true);
         onStart();
