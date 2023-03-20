@@ -1,6 +1,6 @@
 # Simple Dashboard React
 
-This repository contains the source code for Simple Dashboard React, a lightweight and user-friendly web application for visualizing data. This project was built using React and is hosted on GitHub Pages. (I don't have time to complete it)
+This repository contains the source code for Simple Dashboard React, a lightweight and user-friendly web application. This project was built using React and is hosted on GitHub Pages. (I don't have time to complete it) This project was inspired by video [Youtube](https://www.youtube.com/watch?v=7WixJakvH10&t). The idea for this simple dashboard was cloned from their work.
 
 ## Demo
 
