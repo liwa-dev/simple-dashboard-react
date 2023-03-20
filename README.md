@@ -1,6 +1,13 @@
-# Simple Dashboard React
+# Simple Dashboard React Anime
 
-This repository contains the source code for Simple Dashboard React, a lightweight and user-friendly web application. This project was built using React and is hosted on GitHub Pages. (I don't have time to complete it) This project was inspired by video [Youtube](https://www.youtube.com/watch?v=7WixJakvH10&t). The idea for this simple dashboard was cloned from their work.
+This repository contains the source code for Simple Dashboard React, a lightweight and user-friendly web application. This project was built using React and is hosted on GitHub Pages. This project was inspired by video [Youtube](https://www.youtube.com/watch?v=7WixJakvH10&t). The idea for this simple dashboard was cloned from their work.
+
+
+## Project Status
+
+This project is currently a work in progress. Due to time constraints, it has not been completed yet. However, the source code has been published for those who are interested.
+
+This version provides clear and concise information about the current status of the project and lets readers know that the source code is available even though the project is not yet complete.
 
 ## Demo
 
